@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational purposes only.
 
-Site published at: [Here] (<https://konoto1.github.io/html-todo/>)
+Site published at: [Here] (<https://konoto1.github.io/html-worhsop-html/>)
 
 Design: --
 
@@ -47,7 +47,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/konoto1/html-todo.git
+    git clone https://github.com/konoto1/html-worhsop-html.git
     ```
 2. Install NPM packages
     ```sh
